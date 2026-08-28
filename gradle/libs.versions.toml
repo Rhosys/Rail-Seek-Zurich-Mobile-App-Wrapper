@@ -2,10 +2,12 @@
 agp     = "8.5.0"
 kotlin  = "2.0.0"
 browser = "1.8.0"
+androidbrowserhelper = "2.5.0"
 
 [libraries]
 androidx-core-ktx = { module = "androidx.core:core-ktx", version = "1.13.1" }
 androidx-browser  = { module = "androidx.browser:browser", version.ref = "browser" }
+androidbrowserhelper = { module = "com.google.androidbrowserhelper:androidbrowserhelper", version.ref = "androidbrowserhelper" }
 junit             = { module = "junit:junit",             version = "4.13.2" }
 
 [plugins]
