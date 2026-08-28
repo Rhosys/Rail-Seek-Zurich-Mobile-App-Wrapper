@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Design tokens from railandseek.rune.town CSS -->
+    <color name="ink">#FF1B2440</color>
+    <color name="paper">#FFF6F2E7</color>
+</resources>
