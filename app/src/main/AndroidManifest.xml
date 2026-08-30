@@ -90,6 +90,10 @@
 
         <activity android:name="com.google.androidbrowserhelper.trusted.FocusActivity" />
 
+        <activity android:name=".ErrorActivity"
+            android:exported="false"
+            android:theme="@style/Theme.RailAndSeek" />
+
         <!-- FileProvider for splash screen image transfer to Chrome -->
         <provider
             android:name="androidx.core.content.FileProvider"
